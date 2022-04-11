@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vrobin@student.42.fr
+	name = Robin Varetz
